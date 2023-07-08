@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Vishwakarma</h1>
-<h3 align="center">I'm a passionate Front-end Developer from India.</h3>
+<h3 align="center">I'm a passionate Ecommerce WordPress & Front-end Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,12 +16,13 @@
 
 - 📫 How to reach me **vishalkir02@gmail.com**
 
-- ⚡ Fun fact **Developing Cool Web stuffs and Reading tech news stuffs.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.wprdpress.com" target="_blank"> <img src="https://icons8.com/icon/aMLZmDlq6SvC/wordpress"/> </a>
+    <a href="https://www.wordpress.org" target="_blank"> <img src="https://img.icons8.com/icon/lyTTLNJgT1Hf/wordpress"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
