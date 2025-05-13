@@ -54,6 +54,44 @@
   <img src="https://img.shields.io/badge/ACF-343a40?style=for-the-badge&logo=data&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO Tools-A3286E?style=for-the-badge&logo=yoast&logoColor=white" />
+
+
+  <!-- Core Technologies -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LMS%20Development-3f51b5?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/E-commerce%20Development-4caf50?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP%20Engine-0d47a1?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+  <!-- Design Tools -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma%20to%20WordPress-e91e63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PSD%20to%20WordPress-9c27b0?style=for-the-badge" />
+
+  <!-- Development Stack -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front-end%20Developer-00BCD4?style=for-the-badge" />
+
+  <!-- Integrations & APIs -->
+  <img src="https://img.shields.io/badge/Payment%20Gateway-ff5722?style=for-the-badge&logo=googlepay&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRM%20Integration-607d8b?style=for-the-badge&logo=zohocrm&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Integration-FF9800?style=for-the-badge&logo=plug&logoColor=white" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/DNS%20Management-009688?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-F68B1F?style=for-the-badge&logo=cpanel&logoColor=white" />
+
+  <!-- Optimization & Troubleshooting -->
+  <img src="https://img.shields.io/badge/Site%20Optimization-8bc34a?style=for-the-badge&logo=googlepagespeedinsights&logoColor=white" />
+  <img src="https://img.shields.io/badge/Troubleshooting-ff1744?style=for-the-badge&logo=bugsnag&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-A3286E?style=for-the-badge&logo=yoast&logoColor=white" />
+
 </div>
 
 ---
