@@ -1,85 +1,112 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Vishal Vishwakarma</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Vishwakarma</h1>
-<h3 align="center">I'm an expert Ecommerce WordPress & Front-end Developer.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Web Development | E-COMMERCE EXPERT | PHP WORDPRESS DEVELOPER | WORDPRESS | WOOCOMMERCE | SHOPIFY | FRONT-END DEVELOPER | Third Party Intregation | Sever Intregation**
-
-- 🌱 I’m currently learning **Everything**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **My Portfolio**
-
-- 📫 How to reach me **vishalkir02@gmail.com**
-
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://woocommerce.com" target="_blank"> <img src="https://img.icons8.com/?size=512&id=115298&format=png" width="40" height="40" /> </a>
-    <a href="https://www.wordpress.org" target="_blank"> <img src="https://img.icons8.com/?size=512&id=lyTTLNJgT1Hf&format=png" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<!--  
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
-<br/>
- -->
+<h3 align="center">
+  💻 WordPress & WooCommerce Developer | Elementor Expert | Custom API Developer
+</h3>
 
 <p align="center">
-    <a href="https://github.com/vishalvishwakarmadeveloper/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Vishwakarma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvishwakarmadeveloper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  🔧 HTML | CSS | JavaScript | PHP | MySQL | API Integration | SEO | Speed Optimization  
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/vishalvishwakarmadeveloper/github-readme-stats"><img alt="Vishal Vishwakarma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarmadeveloper&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vishalvishwakarmadeveloper/github-readme-stats"><img alt="Vishal Vishwakarma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvishwakarmadeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/vishalvishwakarmadeveloper/github-readme-activity-graph"><img alt="Vishal Vishwakarma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalvishwakarmadeveloper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/vishalvishwkarma/"><img src="img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aditya007vishwakarma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://facebook.com/ktroptimus"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
-
+<p align="center">
+  🤖 AI Automation Web Developer | Full-Stack CMS Specialist | Website Security & Hosting Expert
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/vishalvishwakarmadeveloper/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=vishalvishwakarmadeveloper">
-</a>
-<a href="https://github.com/vishalvishwakarmadeveloper?tab=followers"><img src="https://img.shields.io/github/followers/vishalvishwakarmadeveloper?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishalvishwkarma/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishalvishwakarmadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvishwakarmadeveloper" />
+</p>
+
+---
+
+## 🧠 About Me
+
+🎯 I’m an experienced **WordPress Developer (5+ years)** with deep expertise in:
+- ⚙️ Custom Theme & Plugin Development
+- 💼 WooCommerce, Multisite & eCommerce Optimization
+- 🧠 AI-Based Automation in Web Development
+- 🧩 Elementor Pro, ACF, Yoast SEO, and Schema Integration
+- 🚀 Speed Optimization (90+ scores), DNS, Hosting, cPanel, GTM, GA, Cloudflare
+- 🔐 Security Hardening & API Integrations
+
+🔧 I work with agile teams and have built & managed 40+ high-performing websites for global clients (India, USA, Europe).
+
+---
+
+## 🔥 Key Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-E30075?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/API Integration-FF9800?style=for-the-badge&logo=plug&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACF-343a40?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO Tools-A3286E?style=for-the-badge&logo=yoast&logoColor=white" />
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 MetaPulse – AI Web Automation Blog Platform
+> A fully automated content workflow platform using PHP, Google Trends, SEO, and AdSense.
+
+### 🔹 Insurance Lead Generator Website
+> Custom-built WordPress platform using ACF + API + CRM integration, with speed and lead tracking optimizations.
+
+### 🔹 Legal & Attorney License Website
+> Schema-rich, multilingual CMS designed for performance, legal trust, and user engagement.
+
+👉 [Project Portfolio (Google Sheet)](https://docs.google.com/spreadsheets/d/18IDCqorXFRv6vGnt0OX4yebtsRBTJnY_hSGPbeHGfxs/edit?usp=sharing)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarmadeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vishalvishwakarmadeveloper&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:vishalkir02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishalvishwkarma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vishalvishwakarmadeveloper">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎓 Certifications
+
+- ✅ Diploma in Information Technology  
+- ✅ Data Structure & Algorithms  
+- ✅ Fundamentals of Digital Marketing  
+- ✅ Ethical Hacking & Bug Bounty  
+- ✅ Microsoft Office & Web Development
+
+---
+
+## 🧠 Fun Fact
+> I automate smart, scalable web systems that grow your business — even while you sleep 😎
