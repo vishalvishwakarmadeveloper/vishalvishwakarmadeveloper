@@ -120,6 +120,14 @@
 
 ---
 
+## 🛠️ Tools I Use:
+- **Code Editor:** VS Code, Cursor
+- **AI wth Dev tools:** Lovable, Bolt, Microsoft Copilot, Claude ...
+- **Collaboration:** Slack, Trello, Jira, Basecamp, Asana
+- **Design Tools:** Figma, Adobe XD, Canva, Photshop
+
+---
+
 ## 📬 Contact Me
 
 <p align="center">
@@ -138,13 +146,18 @@
 
 ## 🎓 Certifications
 
-- ✅ Diploma in Information Technology  
-- ✅ Data Structure & Algorithms  
-- ✅ Fundamentals of Digital Marketing  
-- ✅ Ethical Hacking & Bug Bounty  
-- ✅ Microsoft Office & Web Development
+- ✅ Certificate in Generative AI  (upGrad- Microsoft) 
+- ✅ Certificate in Web Development (INTERNSHALA) 
+- ✅ Diploma in Information Technology  (NIIT)
+- ✅ Data Structure & Algorithms  (NIIT)
+- ✅ Fundamentals of Digital Marketing  (Google)
+- ✅ Ethical Hacking & Bug Bounty  (Udemy)
+- ✅ Microsoft Office & Web Development (NIIT)
 
 ---
 
 ## 🧠 Fun Fact
 > I automate smart, scalable web systems that grow your business — even while you sleep 😎
+> I love solving complex problems and learning new technologies.
+> I enjoy contributing to open-source projects and collaborating with other developers.
+> In my free time, I listen to podcasts about web development, technology, and global gossip.
