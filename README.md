@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Vishwakarma</h1>
 
 <h3 align="center">
-  💻 WordPress & WooCommerce Developer | Elementor Expert | Custom API Developer
+  💻 WordPress & WooCommerce Developer | Elementor Expert | 🤖 AI Automation Web Developer
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🤖 AI Automation Web Developer | Full-Stack CMS Specialist | Website Security & Hosting Expert
+  Custom API Developer | Full-Stack CMS Specialist | Website Security & Hosting Expert
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 - 💼 WooCommerce, Multisite & eCommerce Optimization
 - 🧠 AI-Based Automation in Web Development
 - 🧩 Elementor Pro, ACF, Yoast SEO, and Schema Integration
-- 🚀 Speed Optimization (90+ scores), DNS, Hosting, cPanel, GTM, GA, Cloudflare
+- 🚀 Speed Optimization (90+ scores), DNS, Hosting, cPanel, CRM, GTM, GA, Cloudflare
 - 🔐 Security Hardening & API Integrations
 
 🔧 I work with agile teams and have built & managed 40+ high-performing websites for global clients (India, USA, Europe).
@@ -111,15 +111,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarmadeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vishalvishwakarmadeveloper&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🛠️ Tools I Use:
 - **Code Editor:** VS Code, Cursor
 - **AI wth Dev tools:** Lovable, Bolt, Microsoft Copilot, Claude ...
@@ -153,6 +144,15 @@
 - ✅ Fundamentals of Digital Marketing  (Google)
 - ✅ Ethical Hacking & Bug Bounty  (Udemy)
 - ✅ Microsoft Office & Web Development (NIIT)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarmadeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vishalvishwakarmadeveloper&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
