@@ -1,163 +1,401 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Vishal Vishwakarma</h1>
 
-<h3 align="center">
-  💻 WordPress & WooCommerce Developer | Elementor Expert | 🤖 AI Automation Web Developer
-</h3>
-
-<p align="center">
-  🔧 HTML | CSS | JavaScript | PHP | MySQL | API Integration | SEO | Speed Optimization  
-</p>
-
-<p align="center">
-  Custom API Developer | Full-Stack CMS Specialist | Website Security & Hosting Expert
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishalvishwkarma/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalvishwakarmadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvishwakarmadeveloper" />
-</p>
-
----
-
-## 🧠 About Me
-
-🎯 I’m an experienced **WordPress Developer (5+ years)** with deep expertise in:
-- ⚙️ Custom Theme & Plugin Development
-- 💼 WooCommerce, Multisite & eCommerce Optimization
-- 🧠 AI-Based Automation in Web Development
-- 🧩 Elementor Pro, ACF, Yoast SEO, and Schema Integration
-- 🚀 Speed Optimization (90+ scores), DNS, Hosting, cPanel, CRM, GTM, GA, Cloudflare
-- 🔐 Security Hardening & API Integrations
-
-🔧 I work with agile teams and have built & managed 40+ high-performing websites for global clients (India, USA, Europe).
-
----
-
-## 🔥 Key Tech Stack
+<!-- ====================================================== -->
+<!--                    PROFILE HEADER                      -->
+<!-- ====================================================== -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-E30075?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/API Integration-FF9800?style=for-the-badge&logo=plug&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACF-343a40?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO Tools-A3286E?style=for-the-badge&logo=yoast&logoColor=white" />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:142B52,100:397BFF&height=230&section=header&text=Vishal%20Vishwakarma&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20SaaS%20%7C%20AI%20%7C%20WordPress&descAlignY=58&descSize=17&animation=fadeIn" />
 
-  <!-- Core Technologies -->
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/LMS%20Development-3f51b5?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/E-commerce%20Development-4caf50?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP%20Engine-0d47a1?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<br/>
 
-  <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma%20to%20WordPress-e91e63?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PSD%20to%20WordPress-9c27b0?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=65A5FF&center=true&vCenter=true&width=800&lines=Building+Scalable+SaaS+Products;Developing+AI-Powered+Applications;Engineering+Custom+WordPress+Solutions;Creating+Plugins%2C+Themes+%26+Integrations;Building+Automation+%26+Business+Systems" alt="Typing SVG" />
 
-  <!-- Development Stack -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Front-end%20Developer-00BCD4?style=for-the-badge" />
+<br/><br/>
 
-  <!-- Integrations & APIs -->
-  <img src="https://img.shields.io/badge/Payment%20Gateway-ff5722?style=for-the-badge&logo=googlepay&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM%20Integration-607d8b?style=for-the-badge&logo=zohocrm&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-FF9800?style=for-the-badge&logo=plug&logoColor=white" />
+<a href="https://www.linkedin.com/in/vishalvishwkarma/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vishalkir02@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/vishalvishwakarmadeveloper">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/DNS%20Management-009688?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-F68B1F?style=for-the-badge&logo=cpanel&logoColor=white" />
+<br/><br/>
 
-  <!-- Optimization & Troubleshooting -->
-  <img src="https://img.shields.io/badge/Site%20Optimization-8bc34a?style=for-the-badge&logo=googlepagespeedinsights&logoColor=white" />
-  <img src="https://img.shields.io/badge/Troubleshooting-ff1744?style=for-the-badge&logo=bugsnag&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-A3286E?style=for-the-badge&logo=yoast&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=vishalvishwakarmadeveloper&style=for-the-badge&color=397BFF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
 
-### 🔹 MetaPulse – AI Web Automation Blog Platform
-> A fully automated content workflow platform using PHP, Google Trends, SEO, and AdSense.
+## About Me
 
-### 🔹 Insurance Lead Generator Website
-> Custom-built WordPress platform using ACF + API + CRM integration, with speed and lead tracking optimizations.
+I'm a Software Developer focused on building scalable applications, intelligent automation systems and business-focused digital products.
 
-### 🔹 Legal & Attorney License Website
-> Schema-rich, multilingual CMS designed for performance, legal trust, and user engagement.
+My work spans across **SaaS engineering, AI development, full-stack applications, custom WordPress development and cloud infrastructure**.
 
-👉 [Project Portfolio (Google Sheet)](https://docs.google.com/spreadsheets/d/18IDCqorXFRv6vGnt0OX4yebtsRBTJnY_hSGPbeHGfxs/edit?usp=sharing)
+I enjoy working across the entire development lifecycle, from understanding business requirements and technical planning to application architecture, development, API integrations, deployment and optimisation.
 
----
-
-## 🛠️ Tools I Use:
-- **Code Editor:** VS Code, Cursor
-- **AI wth Dev tools:** Lovable, Bolt, Microsoft Copilot, Claude ...
-- **Collaboration:** Slack, Trello, Jira, Basecamp, Asana
-- **Design Tools:** Figma, Adobe XD, Canva, Photshop
+- Building SaaS platforms, CRM, ATS and business applications.
+- Developing AI-powered tools, agents and automation workflows.
+- Engineering custom WordPress plugins, themes and WooCommerce solutions.
+- Developing frontend and backend applications.
+- Integrating REST APIs, payment gateways and third-party services.
+- Managing hosting, VPS, cloud platforms and production deployments.
 
 ---
 
-## 📬 Contact Me
+<!-- ====================================================== -->
+<!--                      WHAT I BUILD                      -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <a href="mailto:vishalkir02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishalvishwkarma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/vishalvishwakarmadeveloper">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<h2 align="center">What I Build</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>SaaS & Product Engineering</h3>
+
+Building scalable business platforms and software products.
+
+- Multi-tenant SaaS platforms
+- CRM and ATS applications
+- Subscription and billing systems
+- Admin dashboards
+- Business management software
+
+</td>
+<td width="33%" valign="top">
+
+<h3>AI & Automation</h3>
+
+Integrating AI into applications and business workflows.
+
+- AI-powered applications
+- LLM and API integrations
+- AI agents and workflows
+- OpenAI, Claude and Gemini
+- n8n workflow automation
+
+</td>
+<td width="33%" valign="top">
+
+<h3>WordPress Engineering</h3>
+
+Developing custom WordPress solutions beyond standard themes.
+
+- Custom plugin development
+- Custom theme development
+- WooCommerce development
+- Elementor and ACF
+- Custom PHP functionality
+- WordPress API integrations
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3>Full-Stack Development</h3>
+
+Building complete web applications from frontend to backend.
+
+- React and TypeScript
+- JavaScript and Node.js
+- PHP and MySQL
+- REST API development
+- Database architecture
+- Responsive applications
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Cloud & Infrastructure</h3>
+
+Managing application environments and production deployments.
+
+- VPS and server management
+- cPanel and web hosting
+- DNS and Cloudflare
+- Vercel and Supabase
+- Deployment and optimisation
+
+</td>
+<td width="33%" valign="top">
+
+<h3>API & Integrations</h3>
+
+Connecting applications, services and business systems.
+
+- REST API development
+- Payment gateway integration
+- CRM integrations
+- Email and communication APIs
+- Third-party services
+- Headless CMS integrations
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ====================================================== -->
+<!--                   DEVELOPMENT FOCUS                   -->
+<!-- ====================================================== -->
+
+<h2 align="center">Development Focus</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>SaaS Platforms</h3>
+
+Multi-tenant architecture, CRM, ATS, subscription management and business applications.
+
+<p><strong>Focus:</strong> Product Engineering</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>AI-Powered Systems</h3>
+
+LLM integrations, AI agents, intelligent workflows and automated business processes.
+
+<p><strong>Focus:</strong> AI Engineering</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>WordPress Solutions</h3>
+
+Custom plugins, themes, WooCommerce functionality, PHP development and complex integrations.
+
+<p><strong>Focus:</strong> CMS Engineering</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3>Web Applications</h3>
+
+Modern frontend interfaces, backend services, databases and complete application development.
+
+<p><strong>Focus:</strong> Full-Stack Engineering</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Automation Systems</h3>
+
+API-driven integrations, workflow automation and connected business tools.
+
+<p><strong>Focus:</strong> Process Automation</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Cloud Deployment</h3>
+
+Server configuration, hosting environments, deployment pipelines and application infrastructure.
+
+<p><strong>Focus:</strong> Infrastructure</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ====================================================== -->
+<!--                    TECHNOLOGY STACK                    -->
+<!-- ====================================================== -->
+
+<h2 align="center">Technology Stack</h2>
+
+### Languages & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,html,css" />
+</p>
+
+### CMS & eCommerce
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+</p>
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,vercel,cloudflare,docker" />
+</p>
+
+### AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 🎓 Certifications
+<!-- ====================================================== -->
+<!--                    PROJECT EXPERIENCE                  -->
+<!-- ====================================================== -->
 
-- ✅ Certificate in Generative AI  (upGrad- Microsoft) 
-- ✅ Certificate in Web Development (INTERNSHALA) 
-- ✅ Diploma in Information Technology  (NIIT)
-- ✅ Data Structure & Algorithms  (NIIT)
-- ✅ Fundamentals of Digital Marketing  (Google)
-- ✅ Ethical Hacking & Bug Bounty  (Udemy)
-- ✅ Microsoft Office & Web Development (NIIT)
+<h2 align="center">Development Experience</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>SaaS & Business Platforms</h3>
+
+Developing business applications with multi-tenant architecture, user management, dashboards, subscription logic, role-based access and API integrations.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>AI-Powered Products</h3>
+
+Building intelligent applications using LLM integrations, AI agents, automated workflows and AI-powered business processes.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Custom WordPress Development</h3>
+
+Creating custom plugins, themes, WooCommerce functionality, advanced PHP logic, reusable components and third-party integrations.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Full-Stack Applications</h3>
+
+Developing complete web applications with modern frontend frameworks, backend services, database architecture and production infrastructure.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+<!-- ====================================================== -->
+<!--                     CURRENT FOCUS                      -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarmadeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vishalvishwakarmadeveloper&theme=tokyonight&hide_border=true" />
+<h2 align="center">Currently Exploring</h2>
+
+<div align="center">
+
+Scalable SaaS Architecture &nbsp; | &nbsp;
+AI Agents & LLM Applications
+
+<br/>
+
+Workflow Automation &nbsp; | &nbsp;
+Modern Full-Stack Engineering
+
+<br/>
+
+API Ecosystems &nbsp; | &nbsp;
+Cloud Infrastructure
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                     GITHUB ANALYTICS                   -->
+<!-- ====================================================== -->
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarmadeveloper&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvishwakarmadeveloper&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vishalvishwakarmadeveloper&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                 CONTRIBUTION ACTIVITY                  -->
+<!-- ====================================================== -->
+
+<h2 align="center">Contribution Activity</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvishwakarmadeveloper&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    CERTIFICATIONS                      -->
+<!-- ====================================================== -->
+
+<h2 align="center">Certifications & Learning</h2>
+
+- Generative AI - upGrad and Microsoft
+- Web Development - Internshala
+- Diploma in Information Technology - NIIT
+- Data Structures & Algorithms - NIIT
+- Fundamentals of Digital Marketing - Google
+- Ethical Hacking & Bug Bounty - Udemy
+- Microsoft Office & Web Development - NIIT
+
+---
+
+<!-- ====================================================== -->
+<!--                         FOOTER                          -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h3>Build. Automate. Innovate.</h3>
+
+<p>
+Creating useful software, solving real problems, and continuously exploring what's next.
 </p>
 
----
+<br/>
 
-## 🧠 Fun Fact
-> I automate smart, scalable web systems that grow your business — even while you sleep 😎
-> I love solving complex problems and learning new technologies.
-> I enjoy contributing to open-source projects and collaborating with other developers.
-> In my free time, I listen to podcasts about web development, technology, and global gossip.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:397BFF,50:142B52,100:080D1A&height=120&section=footer" />
+
+</div>
