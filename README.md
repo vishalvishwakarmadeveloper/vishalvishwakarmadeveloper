@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=65A5FF&center=true&vCenter=true&width=800&lines=Building+Scalable+SaaS+Products;Developing+AI-Powered+Applications;Engineering+Custom+WordPress+Solutions;Creating+Plugins%2C+Themes+%26+Integrations;Building+Automation+%26+Business+Systems" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/vishalvishwkarma/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
