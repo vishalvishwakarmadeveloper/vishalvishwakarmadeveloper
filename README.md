@@ -7,7 +7,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:142B52,100:397BFF&height=230&section=header&text=Vishal%20Vishwakarma&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20SaaS%20%7C%20AI%20%7C%20WordPress&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=65A5FF&center=true&vCenter=true&width=800&lines=Building+Scalable+SaaS+Products;Developing+AI-Powered+Applications;Engineering+Custom+WordPress+Solutions;Creating+Plugins%2C+Themes+%26+Integrations;Building+Automation+%26+Business+Systems" alt="Typing SVG" />
 
