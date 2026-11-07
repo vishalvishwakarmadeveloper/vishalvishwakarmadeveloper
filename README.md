@@ -1,7 +1,5 @@
-
-<!-- ====================================================== -->
 <!--                    PROFILE HEADER                      -->
-<!-- ====================================================== -->
+
 
 <div align="center">
 
@@ -21,8 +19,7 @@
 <a href="https://github.com/vishalvishwakarmadeveloper">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=vishalvishwakarmadeveloper&style=for-the-badge&color=397BFF&label=PROFILE+VIEWS" />
 
@@ -30,9 +27,9 @@
 
 ---
 
-<!-- ====================================================== -->
+
 <!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+
 
 ## About Me
 
@@ -51,9 +48,9 @@ I enjoy working across the entire development lifecycle, from understanding busi
 
 ---
 
-<!-- ====================================================== -->
+
 <!--                      WHAT I BUILD                      -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">What I Build</h2>
 
@@ -148,9 +145,9 @@ Connecting applications, services and business systems.
 
 ---
 
-<!-- ====================================================== -->
+
 <!--                   DEVELOPMENT FOCUS                   -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">Development Focus</h2>
 
@@ -218,9 +215,8 @@ Server configuration, hosting environments, deployment pipelines and application
 
 ---
 
-<!-- ====================================================== -->
 <!--                    TECHNOLOGY STACK                    -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">Technology Stack</h2>
 
@@ -262,9 +258,9 @@ Server configuration, hosting environments, deployment pipelines and application
 
 ---
 
-<!-- ====================================================== -->
+
 <!--                    PROJECT EXPERIENCE                  -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">Development Experience</h2>
 
@@ -306,9 +302,8 @@ Developing complete web applications with modern frontend frameworks, backend se
 
 ---
 
-<!-- ====================================================== -->
 <!--                     CURRENT FOCUS                      -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">Currently Exploring</h2>
 
@@ -331,9 +326,8 @@ Cloud Infrastructure
 
 ---
 
-<!-- ====================================================== -->
 <!--                     GITHUB ANALYTICS                   -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">GitHub Analytics</h2>
 
@@ -351,9 +345,7 @@ Cloud Infrastructure
 
 ---
 
-<!-- ====================================================== -->
 <!--                 CONTRIBUTION ACTIVITY                  -->
-<!-- ====================================================== -->
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -369,9 +361,8 @@ Cloud Infrastructure
 
 ---
 
-<!-- ====================================================== -->
 <!--                    CERTIFICATIONS                      -->
-<!-- ====================================================== -->
+
 
 <h2 align="center">Certifications & Learning</h2>
 
@@ -385,9 +376,8 @@ Cloud Infrastructure
 
 ---
 
-<!-- ====================================================== -->
 <!--                         FOOTER                          -->
-<!-- ====================================================== -->
+
 
 <div align="center">
 
